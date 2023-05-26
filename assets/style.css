@@ -1,0 +1,19 @@
+.box-principal{
+border: none;
+color: white;
+text-decoration: none;
+font-size: 16px;
+padding: 3px 3px 3px 3px;
+
+}
+
+.box{
+    background-color: rgba(4, 11, 82, 0.863);
+    width: 6rem;
+    padding: 4px 2px 4px 2px;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    color: white;
+}
